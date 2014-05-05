@@ -1,0 +1,581 @@
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (131.1ms)[0m  [1mCREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "month_id" varchar(255), "day_id" varchar(255), "name" varchar(255), "date" datetime, "place" varchar(255), "attending" integer DEFAULT 0 NOT NULL, "weekly" integer, "biweekly" integer, "parent_id" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35m (98.7ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.1ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (107.1ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (84.0ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20140505190744')
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:24:39.992740"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:24:39.992740"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:26:05.718043"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:26:05.718043"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:26:26.679348"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:26:26.679348"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mEvent Load (0.3ms)[0m  [1mSELECT "events".* FROM "events"[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:28:09.955747"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:28:09.955747"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:28:23.616064"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:28:23.616064"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.5ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."month_id" = '05-2014'
+  [1m[36mEvent Load (0.5ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."month_id" = '05-2014'[0m
+  [1m[35mEvent Load (0.6ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."month_id" = '05-2014'
+  [1m[36mEvent Load (0.4ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."month_id" = '05-2014'[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:29:00.377296"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:29:00.377296"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:29:15.210002"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:29:15.210002"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:29:34.249210"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:29:34.249210"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (1.2ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:29:48.883626"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:29:48.883626"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:30:18.896680"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:30:18.896680"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:30:39.734822"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:30:39.734822"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."month_id" = '05-2014'
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:32:31.369866"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:32:31.369866"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  SELECT "events"."day_id" FROM "events"  WHERE "events"."month_id" = '05-2014'
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.7ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:33:09.027242"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:33:09.027242"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:33:28.027440"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:33:28.027440"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')
+  [1m[36m (0.2ms)[0m  [1mSELECT "events"."weekly" FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:34:09.212326"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:34:09.212326"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:34:25.247154"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:34:25.247154"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.3ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:35:09.791191"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:35:09.791191"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:36:00.679827"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:36:00.679827"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:36:18.041689"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:36:18.041689"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:36:49.060471"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:36:49.060471"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:37:36.603080"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:37:36.603080"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:39:17.106300"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:39:17.106300"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.7ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:39:29.427954"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:39:29.427954"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:40:29.901194"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:40:29.901194"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:40:53.803700"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:40:53.803700"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:41:41.188073"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:41:41.188073"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mEvent Load (0.3ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:41:57.678632"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:41:57.678632"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:42:11.080646"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:42:11.080646"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:42:25.284550"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:42:25.284550"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:42:33.698869"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:42:33.698869"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.4ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:43:00.051668"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:43:00.051668"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:43:17.886793"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:43:17.886793"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.3ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT  "events".* FROM "events"  WHERE "events"."parent_id" = ? LIMIT 1  [["parent_id", 1]]
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:43:59.922505"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:43:59.922505"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT  "events".* FROM "events"  WHERE "events"."parent_id" = ? LIMIT 1  [["parent_id", 1]]
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:44:55.421255"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:44:55.421255"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT  "events".* FROM "events"  WHERE "events"."parent_id" = ? LIMIT 1  [["parent_id", 1]]
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:45:12.108212"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:45:12.108212"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:45:28.201841"], ["day_id", "01-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:45:28.201841"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:46:02.739530"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:46:02.739530"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.3ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:46:43.564109"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:46:43.564109"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-2014', '02-2014', '03-2014', '04-2014', '05-2014', '06-2014', '07-2014', '08-2014', '09-2014', '10-2014', '11-2014', '12-2014', '13-2014', '14-2014', '15-2014', '16-2014', '17-2014', '18-2014', '19-2014', '20-2014', '21-2014', '22-2014', '23-2014', '24-2014', '25-2014', '26-2014', '27-2014', '28-2014', '29-2014', '30-2014', '31-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:47:40.022096"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:47:40.022096"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.3ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:48:33.250679"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:48:33.250679"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:49:01.030042"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:49:01.030042"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:49:45.424891"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:49:45.424891"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:50:17.147720"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:50:17.147720"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:50:51.819115"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:50:51.819115"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.4ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:51:14.049080"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:51:14.049080"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:51:37.614630"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:51:37.614630"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.3ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:52:12.146690"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:52:12.146690"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:52:22.734890"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:52:22.734890"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:53:04.141945"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:53:04.141945"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:53:11.834976"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:53:11.834976"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.4ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:53:41.662811"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:53:41.662811"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("created_at", "day_id", "month_id", "name", "place", "updated_at", "weekly") VALUES (?, ?, ?, ?, ?, ?, ?)  [["created_at", "2014-05-05 19:53:52.709111"], ["day_id", "08-05-2014"], ["month_id", "05-2014"], ["name", "Ryba"], ["place", "U Rybáře"], ["updated_at", "2014-05-05 19:53:52.709111"], ["weekly", 1]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mEvent Load (0.3ms)[0m  SELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014') AND "events"."weekly" = 1
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"  WHERE "events"."day_id" IN ('01-05-2014', '02-05-2014', '03-05-2014', '04-05-2014', '05-05-2014', '06-05-2014', '07-05-2014', '08-05-2014', '09-05-2014', '10-05-2014', '11-05-2014', '12-05-2014', '13-05-2014', '14-05-2014', '15-05-2014', '16-05-2014', '17-05-2014', '18-05-2014', '19-05-2014', '20-05-2014', '21-05-2014', '22-05-2014', '23-05-2014', '24-05-2014', '25-05-2014', '26-05-2014', '27-05-2014', '28-05-2014', '29-05-2014', '30-05-2014', '31-05-2014')[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
