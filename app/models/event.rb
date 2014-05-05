@@ -4,7 +4,7 @@
 #
 #  id         :integer          not null, primary key
 #  month_id   :string(255)
-#  day_id     :string(255)
+#  day_id     :date
 #  name       :string(255)
 #  date       :datetime
 #  place      :string(255)

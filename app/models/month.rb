@@ -29,12 +29,12 @@ class Month
     setup_name
     setup_previous_month
     setup_next_month
-    setup_events
+    setup_weekly_events
     self
   end
 
   def setup_month
-    self.date = Date.parse(self.id)
+    self.date = Date.strptime(self.id, '%m-%Y')
   end
 
   def setup_days
@@ -58,15 +58,17 @@ class Month
     self.next_month_id = sprintf("%02d-%d", next_month.month, next_month.year)
   end
 
-  def setup_events
-    regular_events = Event.where(day_id: self.days)
+  def setup_weekly_events
+    regular_events = Event.where('day_id <= ?', self.date.at_end_of_month)
     weekly_events = []
     regular_events.where(weekly: 1).each do |event|
       day_number = Date.parse(event.day_id).wday
       (self.days.select {|day| Date.parse(day).wday == day_number} - [event.day_id]).each_with_index do |day_id, index|
-        weekly_events << Event.new(event.attributes.merge(attending: 0, day_id: day_id, occurence: index, parent_id: event.id)) if Date.parse(event.day_id) < Date.parse(day_id)
+        weekly_events << Event.new(event.attributes.merge(weekly: nil, attending: 0, day_id: day_id, occurence: index, parent_id: event.id)) if Date.parse(event.day_id) < Date.parse(day_id)
       end
     end
+    regular_events = regular_events.select {|e| Date.parse(e.day_id) <= self.date.at_end_of_month}
+    regular_events = regular_events.select {|e| Date.parse(e.day_id) > self.date.at_beginning_of_month}
     self.events = (weekly_events + regular_events).sort_by(&:event_id_key)
   end
 end

@@ -15,7 +15,7 @@ ActiveRecord::Schema.define(version: 20140505190744) do
 
   create_table "events", force: true do |t|
     t.string   "month_id"
-    t.string   "day_id"
+    t.date     "day_id"
     t.string   "name"
     t.datetime "date"
     t.string   "place"
