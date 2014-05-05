@@ -8,17 +8,35 @@ describe Event do
   context "weekly" do
     let!(:event) { Event.create(month_id: '05-2014', day_id: '08-05-2014', weekly: 1, name: 'Ryba', place: 'U Rybáře') }
     it 'can found non-existing events for current month' do
-      events = month.events
+      events = month.weekly_events
       expect(events.length).to eq(4)
     end
 
     it 'can found non-existing events for next month' do
-      events = next_month.events
+      events = next_month.weekly_events
       expect(events.length).to eq(4)
     end
 
     it 'can found non-existing events for previous month' do
-      events = previous_month.events
+      events = previous_month.weekly_events
+      expect(events.length).to eq(0)
+    end
+  end
+
+  context "biweekly" do
+    let!(:event) { Event.create(month_id: '05-2014', day_id: '08-05-2014', biweekly: 1, name: 'Ryba', place: 'U Rybáře') }
+    it 'can found non-existing events for current month' do
+      events = month.biweekly_events
+      expect(events.length).to eq(2)
+    end
+
+    it 'can found non-existing events for next month' do
+      events = next_month.biweekly_events
+      expect(events.length).to eq(2)
+    end
+
+    it 'can found non-existing events for previous month' do
+      events = previous_month.biweekly_events
       expect(events.length).to eq(0)
     end
   end

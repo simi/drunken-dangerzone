@@ -10,6 +10,8 @@
 
 class Month
   attr_accessor :date
+  attr_accessor :weekly_events
+  attr_accessor :biweekly_events
 
   include Virtus.model
 
@@ -30,6 +32,7 @@ class Month
     setup_previous_month
     setup_next_month
     setup_weekly_events
+    setup_biweekly_events
     self
   end
 
@@ -69,6 +72,23 @@ class Month
     end
     regular_events = regular_events.select {|e| Date.parse(e.day_id) <= self.date.at_end_of_month}
     regular_events = regular_events.select {|e| Date.parse(e.day_id) > self.date.at_beginning_of_month}
-    self.events = (weekly_events + regular_events).sort_by(&:event_id_key)
+    self.weekly_events = (weekly_events + regular_events).sort_by(&:event_id_key)
+  end
+
+  def setup_biweekly_events
+    regular_events = Event.where('day_id <= ?', self.date.at_end_of_month)
+    biweekly_events = []
+    regular_events.where(biweekly: 1).each do |event|
+      day_number = Date.parse(event.day_id).wday
+      (self.days.select {|day| Date.parse(day).wday == day_number} - [event.day_id]).each_with_index do |day_id, index|
+        diff = (Date.parse(day_id).day - Date.parse(event.day_id).day).abs
+        if diff.between?(0, 3) or diff.between?(11, 14)
+          biweekly_events << Event.new(event.attributes.merge(weekly: nil, attending: 0, day_id: day_id, occurence: index, parent_id: event.id)) if Date.parse(event.day_id) < Date.parse(day_id)
+        end
+      end
+    end
+    regular_events = regular_events.select {|e| Date.parse(e.day_id) <= self.date.at_end_of_month}
+    regular_events = regular_events.select {|e| Date.parse(e.day_id) > self.date.at_beginning_of_month}
+    self.biweekly_events = (biweekly_events + regular_events).sort_by(&:event_id_key)
   end
 end
