@@ -37,7 +37,7 @@ class Month
     setup_regular_events
     setup_weekly_events
     setup_biweekly_events
-    self.events = (self.month_regular_events + self.weekly_events + self.biweekly_events).uniq(&:event_id_key)
+    self.events = (self.month_regular_events + self.weekly_events + self.biweekly_events)
     self
   end
 
